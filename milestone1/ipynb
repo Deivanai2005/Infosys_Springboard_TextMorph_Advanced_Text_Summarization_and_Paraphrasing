@@ -1,0 +1,4 @@
+Inside notebook cells:
+install packages
+
+!pip install streamlit bcrypt pyjwt pyngrok
