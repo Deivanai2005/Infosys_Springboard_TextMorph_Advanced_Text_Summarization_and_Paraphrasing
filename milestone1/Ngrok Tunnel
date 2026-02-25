@@ -1,0 +1,3 @@
+from pyngrok import ngrok
+ngrok.set_auth_token("YOUR_TOKEN")
+ngrok.connect(8501)
