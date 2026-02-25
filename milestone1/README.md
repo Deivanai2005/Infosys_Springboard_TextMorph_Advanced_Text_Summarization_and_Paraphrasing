@@ -68,4 +68,16 @@ streamlit run app.py
 Step 3: Expose App Using Ngrok
 ngrok http 8501
 
+Screenshots 
+![Sign up](https://github.com/user-attachments/assets/e6167d3e-2971-4e4c-9b2c-5ad505ceeae5)
+
+![Login ](https://github.com/user-attachments/assets/9732435e-762e-46a4-8def-4f5374cd664e)
+
+![Login successful](https://github.com/user-attachments/assets/4318342d-1864-4ee0-9401-1da53fb949a8)
+
+![Dashboard](https://github.com/user-attachments/assets/f3f2c454-cd23-4128-b9da-67f8051db565)
+
+![forgot password](https://github.com/user-attachments/assets/da9b9992-774a-4f56-9734-86be59763cc1)
+
+![Reset   update password](https://github.com/user-attachments/assets/20825760-2241-4bb3-b466-63a2d6e48af5)
 
