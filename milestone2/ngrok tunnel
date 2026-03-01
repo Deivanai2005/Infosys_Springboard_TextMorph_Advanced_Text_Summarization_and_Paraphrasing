@@ -1,0 +1,15 @@
+import os, subprocess, time
+from pyngrok import ngrok
+
+os.environ["EMAIL_ADDRESS"]=".........."
+os.environ["EMAIL_PASSWORD"]="........."
+
+ngrok.set_auth_token("3A5zrXAtaSDGKZQ7TbJq6CpCjCr_3EcKcbPiFNJa6zahM6nmr")
+
+process=subprocess.Popen(
+    ["streamlit","run","app.py","--server.port","8501","--server.address","0.0.0.0"]
+)
+
+time.sleep(6)
+url=ngrok.connect(8501)
+print("🚀 OPEN THIS LINK:",url)
