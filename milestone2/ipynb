@@ -1,0 +1,1 @@
+!pip install streamlit bcrypt pyjwt pyngrok textstat plotly python-docx PyPDF2 -q
