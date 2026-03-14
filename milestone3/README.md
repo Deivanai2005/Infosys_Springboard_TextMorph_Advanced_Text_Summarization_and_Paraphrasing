@@ -3,13 +3,14 @@
 In this milestone, the application was significantly enhanced by integrating secure authentication, intelligent language processing, and advanced visualization features. The system now includes OTP-based authentication using JWT and Ngrok. Additionally, several transformer-based AI models from leading research organizations were integrated to power various language processing features such as translation, summarization, question answering, and paraphrasing. These models were optimized using 4-bit quantization to improve inference efficiency and reduce memory usage while maintaining performance.
 
   ## AI Models Integrated in the Application
-Model Name	Organization / Source	Task / Feature Used In	Description	Quantization
-Helsinki-NLP OPUS-MT	University of Helsinki / OPUS-MT Project	Multilingual Translation	Transformer-based machine translation models used to translate text between multiple languages.	4-bit
-DistilBART-CNN	Meta AI (Facebook AI Research)	Text Summarization	A distilled version of BART optimized for faster and efficient summarization of news and long documents.	4-bit
-PEGASUS	Google Research	Text Summarization	A pre-trained sequence-to-sequence model designed specifically for abstractive summarization tasks.	4-bit
-FLAN-T5	Google Research	Multi-language Q&A, NLP Generation	Instruction-tuned version of T5 capable of performing multiple NLP tasks like question answering, reasoning, and text generation.	4-bit
-T5 Paraphrase PAWS	Google Research / Hugging Face Community	Text Paraphrasing	Fine-tuned T5 model trained on the PAWS dataset for generating paraphrased versions of sentences.	4-bit
-BART Paraphrase	Meta AI (Facebook AI Research)	Text Paraphrasing	BART-based model designed to generate alternative sentence structures while preserving original meaning.	4-bit
+| Model Name | Organization / Source | Task / Feature Used In | Description | Quantization |
+|------------|----------------------|------------------------|-------------|--------------|
+| Helsinki-NLP OPUS-MT | University of Helsinki / OPUS-MT Project | Multilingual Translation | Transformer-based machine translation models used to translate text between multiple languages. | 4-bit |
+| DistilBART-CNN | Meta AI (Facebook AI Research) | Text Summarization | A distilled version of BART optimized for faster and efficient summarization of news and long documents. | 4-bit |
+| PEGASUS | Google Research | Text Summarization | A pre-trained sequence-to-sequence model designed specifically for abstractive summarization tasks. | 4-bit |
+| FLAN-T5 | Google Research | Multi-language Q&A, NLP Generation | Instruction-tuned version of T5 capable of performing multiple NLP tasks like question answering, reasoning, and text generation. | 4-bit |
+| T5 Paraphrase PAWS | Google Research / Hugging Face Community | Text Paraphrasing | Fine-tuned T5 model trained on the PAWS dataset for generating paraphrased versions of sentences. | 4-bit |
+| BART Paraphrase | Meta AI (Facebook AI Research) | Text Paraphrasing | BART-based model designed to generate alternative sentence structures while preserving original meaning. | 4-bit |
 
 Additionally, the application introduces a Readability Dashboard and several UI/UX improvements to provide users with a more intuitive and efficient experience.
 ## Features Implemented
