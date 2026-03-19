@@ -140,10 +140,14 @@ This project was developed collaboratively by:
 ---
 
 ## Screenshots
-
-
----
-
-
-
----
+<img width="1889" height="947" alt="image" src="https://github.com/user-attachments/assets/d08384ee-c48d-464f-a6f4-8f4f7a3e1911" />
+<img width="1894" height="951" alt="image" src="https://github.com/user-attachments/assets/2a61604b-f2a9-45a1-860b-e8e3321448a8" />
+<img width="1907" height="931" alt="image" src="https://github.com/user-attachments/assets/dc55ac29-0707-4e33-8cb0-8c42e889a493" />
+<img width="1917" height="950" alt="image" src="https://github.com/user-attachments/assets/dcc1467d-2bb3-47f4-993d-86abe92144a9" />
+<img width="1914" height="947" alt="image" src="https://github.com/user-attachments/assets/51d215b7-7388-49aa-ba78-4161745bfbe9" />
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/28bf4ecf-9d54-4833-b2cf-2080bc94e1c5" />
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/8523285c-6474-49c1-9483-7577c957fd3c" />
+<img width="1883" height="945" alt="image" src="https://github.com/user-attachments/assets/4e5d0b2e-1b14-41d5-b006-88d885260c86" />
+<img width="1912" height="926" alt="image" src="https://github.com/user-attachments/assets/5711a2b1-d8a9-4b78-a2fc-74ad4e3a9255" />
+<img width="1915" height="955" alt="image" src="https://github.com/user-attachments/assets/a71bed21-b140-4380-86c9-df93905cfe3a" />
+<img width="1889" height="946" alt="image" src="https://github.com/user-attachments/assets/31a6dfa3-dac4-4a68-ba7e-7c63cf86d537" />
