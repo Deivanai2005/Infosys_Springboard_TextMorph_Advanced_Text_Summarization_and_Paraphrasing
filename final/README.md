@@ -2,7 +2,7 @@
 An AI-powered NLP web application built with Streamlit, HuggingFace Transformers, and Docker.
 Developed as part of the Infosys Springboard program.
 
-**📌 Table of Contents**
+# 📌 Table of Contents
 Overview
 Features
 Tech Stack
